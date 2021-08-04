@@ -56,5 +56,4 @@ type Company struct {
 
 type Language struct {
 	Code string `gorm:"primarykey"`
-	Name string
 }
